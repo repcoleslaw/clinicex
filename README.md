@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
+This application is an exploration of creating data visualization and maps in the react interface for logging active projects on the go.
+
 
 ## Available Scripts
 
